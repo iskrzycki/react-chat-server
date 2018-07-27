@@ -1,0 +1,23 @@
+{
+  "name": "react-chat-server",
+  "version": "1.0.0",
+  "description": "Websocket server for react-chat application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iskrzycki/react-chat-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iskrzycki/react-chat-server/issues"
+  },
+  "homepage": "https://github.com/iskrzycki/react-chat-server#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
